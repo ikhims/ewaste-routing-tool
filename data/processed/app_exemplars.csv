@@ -1,0 +1,13 @@
+display_name,brand,screen_size_inches,rear_camera_mp,front_camera_mp,ram,internal_memory,battery,weight,device_age_years,years_used,4g,5g,routing_label,pred,conf
+"Others — 8.0"", 32GB, 5400mAh, 5MP, 7y old",Others,8.0,5.0,5.0,4.0,32.0,5400.0,390.0,7,2.513347022587269,1,0,Refurbish,Repair,0.5138747601721723
+"Nokia — 5.0"", 128GB, 3090mAh, 13MP, 4y old",Nokia,5.03,13.0,13.0,4.0,128.0,3090.0,160.0,4,1.5277207392197123,1,0,Refurbish,Repair,0.6569323316763299
+"Xiaomi — 6.7"", 64GB, 5020mAh, 8MP, 1y old",Xiaomi,6.67,8.0,32.0,6.0,64.0,5020.0,209.0,1,0.7008898015058179,1,0,Refurbish,Refurbish,0.8199738510896432
+"Others — 5.0"", 16GB, 4000mAh, 13MP, 4y old",Others,5.02,13.0,5.0,4.0,16.0,4000.0,206.0,4,2.2888432580424367,1,0,Repair,Recycle,0.4951399049520876
+"Sony — 5.0"", 32GB, 3000mAh, 21MP, 7y old",Sony,5.0,20.7,2.0,4.0,32.0,3000.0,162.0,7,2.1738535249828885,1,0,Repair,Repair,0.5930000921575534
+"Samsung — 6.0"", 64GB, 4000mAh, 12MP, 2y old",Samsung,6.04,12.0,16.0,4.0,64.0,4000.0,165.0,2,0.974674880219028,1,0,Repair,Refurbish,0.7272581894708171
+"Alcatel — 5.0"", 16GB, 2500mAh, 8MP, 8y old",Alcatel,5.0,8.0,0.3,4.0,16.0,2500.0,135.0,8,2.31895961670089,0,0,Recycle,Dispose,0.4907150489886344
+"Others — 7.8"", 16GB, 3800mAh, 2MP, 7y old",Others,7.85,2.0,0.3,4.0,16.0,3800.0,313.0,7,1.8179329226557157,0,0,Recycle,Recycle,0.6640732088888245
+"Huawei — 5.0"", 32GB, 2200mAh, 8MP, 4y old",Huawei,5.0,8.0,2.0,4.0,32.0,2200.0,175.0,4,1.8863791923340176,1,0,Recycle,Recycle,0.8112553728875873
+"Others — 5.0"", 16GB, 2000mAh, 5MP, 8y old",Others,5.0,5.0,0.3,4.0,16.0,2000.0,155.0,8,2.48870636550308,0,0,Dispose,Dispose,0.5640970533191766
+"Micromax — 4.0"", 32GB, 1500mAh, 5MP, 7y old",Micromax,4.0,5.0,0.3,4.0,32.0,1500.0,146.5,7,2.3408624229979464,0,0,Dispose,Dispose,0.7873278961266769
+"Spice — 3.0"", 16GB, 1750mAh, 2MP, 7y old",Spice,3.05,2.0,1.3,4.0,16.0,1750.0,112.0,7,2.732375085557837,0,0,Dispose,Dispose,0.9704618402501491
