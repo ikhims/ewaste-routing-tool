@@ -543,10 +543,13 @@ def main():
         )
 
         st.divider()
-        years_used = st.slider(
-            "Time in previous use (years)", 0.0, 3.0, 1.5, 0.25,
-            help="How long the previous owner used the device. Distinct from device age.",
-        )
+        if source == "Enter specifications manually":
+            years_used = st.slider(
+                "Time in previous use (years)", 0.0, 3.0, 1.5, 0.25,
+                help="How long the previous owner used the device. Distinct from device age.",
+                )
+        else:
+            years_used = 1.5  # placeholder; overwritten from the device row below
 
     # ---- Device selection ------------------------------------------------
     spec, device_name, device_note = None, None, None
