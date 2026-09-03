@@ -515,7 +515,7 @@ resolved in principle.
 
 def main():
     st.set_page_config(page_title="E-Waste Routing Decision Tool",
-                       page_icon="♻️", layout="wide")
+                       page_icon="♻️", layout="wide", initial_sidebar_state="expanded")
 
     st.title("E-Waste Routing Decision Support Tool")
     st.markdown(
@@ -538,6 +538,7 @@ def main():
         source = st.radio(
             "Device source",
             ["Named UK devices", "Corpus exemplars", "Enter specifications manually"],
+            index=1,
             help="Named devices use published manufacturer specifications. Corpus exemplars "
                  "are real records from the dataset the model was trained on.",
         )
