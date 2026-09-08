@@ -2,7 +2,7 @@
 E-Waste Routing Decision Support Tool
 =====================================
 
-MSc Big Data Analytics dissertation artefact, Sheffield Hallam University.
+MSc Big Data Analytics dissertation, Sheffield Hallam University.
 
 Predicts the value-optimal end-of-life route (Refurbish / Repair / Recycle / Dispose)
 for a used smartphone or tablet from device specifications alone, with a confidence
